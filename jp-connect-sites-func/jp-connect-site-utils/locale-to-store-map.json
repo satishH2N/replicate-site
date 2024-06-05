@@ -1,0 +1,224 @@
+{
+  "stores": [
+    {
+      "country": "de",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "de",
+      "language": "de",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "at",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "at",
+      "language": "de",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "fr",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "fr",
+      "language": "fr",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "be",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "be",
+      "language": "nl",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "be",
+      "language": "fr",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "fi",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "fi",
+      "language": "fi",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "nl",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "nl",
+      "language": "nl",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "lu",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "lu",
+      "language": "fr",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "lu",
+      "language": "de",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "es",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "es",
+      "language": "es",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "it",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "it",
+      "language": "it",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "ie",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "pl",
+      "language": "pl",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "pt",
+      "language": "en",
+      "store": "https://juiceplus-eur.myshopify.com"
+    },
+    {
+      "country": "gb",
+      "language": "en",
+      "store": "https://juiceplus-gb.myshopify.com"
+    },
+    {
+      "country": "dk",
+      "language": "en",
+      "store": "https://juiceplus-dk.myshopify.com"
+    },
+    {
+      "country": "dk",
+      "language": "da",
+      "store": "https://juiceplus-dk.myshopify.com"
+    },
+    {
+      "country": "no",
+      "language": "en",
+      "store": "https://juiceplus-dk.myshopify.com"
+    },
+    {
+      "country": "no",
+      "language": "no",
+      "store": "https://juiceplus-dk.myshopify.com"
+    },
+    {
+      "country": "se",
+      "language": "en",
+      "store": "https://juiceplus-dk.myshopify.com"
+    },
+    {
+      "country": "se",
+      "language": "sv",
+      "store": "https://juiceplus-dk.myshopify.com"
+    },
+    {
+      "country": "ch",
+      "language": "en",
+      "store": "https://juiceplus-chf.myshopify.com"
+    },
+    {
+      "country": "ch",
+      "language": "de",
+      "store": "https://juiceplus-chf.myshopify.com"
+    },
+    {
+      "country": "ch",
+      "language": "fr",
+      "store": "https://juiceplus-chf.myshopify.com"
+    },
+    {
+      "country": "ch",
+      "language": "it",
+      "store": "https://juiceplus-chf.myshopify.com"
+    },
+    {
+      "country": "ae",
+      "language": "en",
+      "store": "https://juiceplus-chf.myshopify.com"
+    },
+    {
+      "country": "il",
+      "language": "en",
+      "store": "https://juiceplus-ils.myshopify.com"
+    },
+    {
+      "country": "il",
+      "language": "he",
+      "store": "https://juiceplus-ils.myshopify.com"
+    },
+    {
+      "country": "us",
+      "language": "en",
+      "store": "https://juiceplusprod.myshopify.com"
+    },
+    {
+      "country": "us",
+      "language": "es",
+      "store": "https://juiceplusprod.myshopify.com"
+    },
+    {
+      "country": "mx",
+      "language": "es",
+      "store": "https://juiceplusprod.myshopify.com"
+    },
+    {
+      "country": "ca",
+      "language": "en",
+      "store": "https://juiceplus-ca.myshopify.com"
+    },
+    {
+      "country": "ca",
+      "language": "fr",
+      "store": "https://juiceplus-ca.myshopify.com"
+    },
+    {
+      "country": "au",
+      "language": "en",
+      "store": "https://juiceplus-au.myshopify.com"
+    },
+    {
+      "country": "nz",
+      "language": "en",
+      "store": "https://juiceplus-au.myshopify.com"
+    }
+  ]
+}
