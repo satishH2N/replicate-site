@@ -51,6 +51,7 @@ def get_store_url(config, country, language):
     raise Exception("Store not found for the given country and language")
 
 def render_template(partner_details, country, language, store_url, stores):
+    print(stores)
     pname = partner_details['FirstName']+" "+partner_details['LastName']
     template_dir = os.path.join(os.path.dirname(__file__), '..', 'jp-connect-site-utils')
     env = Environment(loader=FileSystemLoader(template_dir))
@@ -93,6 +94,8 @@ def main(req: func.HttpRequest) -> func.HttpResponse:
         )
     except Exception as e:
         logging.error(f"An error occurred: {e}")
+        if str(e) == "Failed to get partner details":
+            return redirect_to_juiceplus()
         return func.HttpResponse(
             "An error occurred while processing your request.",
             status_code=500
